@@ -1,0 +1,37 @@
+<<link href="/vendors/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/vendors/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="/vendors/vendors/nprogress/nprogress.css" rel="stylesheet">
+<link href="/vendors/vendors/fullcalendar/dist/fullcalendar.min.css" rel="stylesheet">
+<link href="/vendors/vendors/fullcalendar/dist/fullcalendar.print.css" rel="stylesheet" media="print">
+<link href="/vendors/build/css/custom.min.css" rel="stylesheet">
+<link href="/vendors/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+<link href="/vendors/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" rel="stylesheet"/>
+<link href="/vendors/vendors/google-code-prettify/bin/prettify.min.css" rel="stylesheet">
+<link href="/vendors/vendors/select2/dist/css/select2.min.css" rel="stylesheet">
+<link href="/vendors/vendors/switchery/dist/switchery.min.css" rel="stylesheet">
+<link href="/vendors/vendors/starrr/dist/starrr.css" rel="stylesheet">
+<link href="/vendors/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+<link href="/vendors/vendors/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.css" rel="stylesheet">
+<link href="/vendors/vendors/normalize-css/normalize.css" rel="stylesheet">
+<link href="/vendors/vendors/ion.rangeSlider/css/ion.rangeSlider.css" rel="stylesheet">
+<link href="/vendors/vendors/ion.rangeSlider/css/ion.rangeSlider.skinFlat.css" rel="stylesheet">
+<link href="/vendors/vendors/mjolnic-bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css" rel="stylesheet">
+<link href="/vendors/vendors/cropper/dist/cropper.min.css" rel="stylesheet">
+<link href="/vendors/vendors/dropzone/dist/min/dropzone.min.css" rel="stylesheet">
+<link href="/vendors/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+<link href="/vendors/vendors/pnotify/dist/pnotify.css" rel="stylesheet">
+<link href="/vendors/vendors/pnotify/dist/pnotify.buttons.css" rel="stylesheet">
+<link href="/vendors/vendors/pnotify/dist/pnotify.nonblock.css" rel="stylesheet">
+<link href="/vendors/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet"/>
+<link href="/vendors/cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+<link href="/vendors/vendors/datatables.net-bs/css/dataTables.bootstrap.min.css" rel="stylesheet">
+<link href="/vendors/vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" rel="stylesheet">
+<link href="/vendors/vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css" rel="stylesheet">
+<link href="/vendors/vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
+<link href="/vendors/vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet">
+<link href="/vendors/vendors/animate.css/animate.min.css" rel="stylesheet">
+<link href="/vendors/css/bootstrap.min.css" rel="stylesheet">
+<link href="/vendors/fonts/css/font-awesome.min.css" rel="stylesheet">
+<link href="/vendors/css/animate.min.css" rel="stylesheet">
+<link href="/vendors/build/css/style.css" rel="stylesheet">
+<link href="/vendors/css/icheck/flat/green.css" rel="stylesheet">
